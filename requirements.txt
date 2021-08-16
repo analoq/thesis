@@ -2,5 +2,6 @@ graphviz
 kubernetes
 scapy
 requests
+types-requests
 pylint
 mypy
