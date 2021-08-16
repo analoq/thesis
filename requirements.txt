@@ -5,3 +5,4 @@ requests
 types-requests
 pylint
 mypy
+jwt
