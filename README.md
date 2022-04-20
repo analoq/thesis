@@ -11,4 +11,4 @@ In each folder there are files such as
 * recovered.gv -- GraphViz file representing the recovered architecture
 * recovered.pdf -- PDF render of GraphViz file
 * vertices.csv -- CSV of the components and their type
-* edges.csv -- Dependencies between the components
+* edges.csv -- CSV of dependencies between the components
