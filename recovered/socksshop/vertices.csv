@@ -1,0 +1,15 @@
+id,type
+queue-master,service
+orders-db,database
+catalogue-db,database
+front-end,service
+catalogue,service
+orders,service
+payment,service
+carts,service
+rabbitmq,broker
+user,service
+user-db,database
+shipping,service
+carts-db,database
+session-db,database

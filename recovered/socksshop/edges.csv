@@ -1,0 +1,16 @@
+from,to
+orders,payment
+orders,shipping
+front-end,carts
+orders,carts
+front-end,orders
+catalogue,catalogue-db
+carts,carts-db
+user,user-db
+front-end,user
+front-end,session-db
+shipping,rabbitmq
+front-end,catalogue
+orders,user
+orders,orders-db
+queue-master,rabbitmq
